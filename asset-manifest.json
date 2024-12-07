@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/t9-invoice-processor/static/css/main.14c46603.css",
-    "main.js": "/t9-invoice-processor/static/js/main.2ebb5113.js",
+    "main.js": "/t9-invoice-processor/static/js/main.a3caa9fe.js",
     "static/js/453.56f46472.chunk.js": "/t9-invoice-processor/static/js/453.56f46472.chunk.js",
     "static/media/InterVariable-Italic.woff2": "/t9-invoice-processor/static/media/InterVariable-Italic.e295f70fe3e2df296c7b.woff2",
     "static/media/InterVariable.woff2": "/t9-invoice-processor/static/media/InterVariable.a0e477f2f1f9d2376fde.woff2",
     "index.html": "/t9-invoice-processor/index.html",
     "main.14c46603.css.map": "/t9-invoice-processor/static/css/main.14c46603.css.map",
-    "main.2ebb5113.js.map": "/t9-invoice-processor/static/js/main.2ebb5113.js.map",
+    "main.a3caa9fe.js.map": "/t9-invoice-processor/static/js/main.a3caa9fe.js.map",
     "453.56f46472.chunk.js.map": "/t9-invoice-processor/static/js/453.56f46472.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.14c46603.css",
-    "static/js/main.2ebb5113.js"
+    "static/js/main.a3caa9fe.js"
   ]
 }
